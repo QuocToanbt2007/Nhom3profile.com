@@ -5,7 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PROFILE NHÓM 3</title>
     <style>
-        body {
+        h1{
+			display: none;
+			}
+		body {
             margin: 0;
             font-family: Arial, sans-serif;
             background: linear-gradient(to bottom, #d2b48c, #ffffff); /* Nền nâu nhạt chuyển thành trắng */
