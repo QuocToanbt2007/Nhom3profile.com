@@ -105,16 +105,16 @@
 
     <!-- Bộ sưu tập ảnh và đường dẫn -->
     <div class="gallery">
-        <a href="https://short.com.vn/8L8e">
+        <a href="https://quoctoanbt2007.github.io/Annhom3.com/">
             <img src="https://s.pro.vn/hcoR" alt="Thiên Ân">
         </a>
-        <a href="https://s.pro.vn/cOoX">
+        <a href="https://quoctoanbt2007.github.io/Baonhom3.com/">
             <img src="https://short.com.vn/VPwa" alt="Gia Bảo">
         </a>
-        <a href="https://s.pro.vn/bfAN">
+        <a href="https://quoctoanbt2007.github.io/Duynhom3.com/">
             <img src="https://s.pro.vn/Aoi0" alt="	Trọng Duy">
         </a>
-        <a href="https://short.com.vn/3kZY">
+        <a href="https://quoctoanbt2007.github.io/Toannhom3.com/">
             <img src="https://s.pro.vn/LNg7" alt="Quốc Toản">
         </a>
 		<a href="https://www.canva.com/design/DAGWXiTAZDM/HIXaVxfC6iTMN-VVUMCSEw/edit">
